@@ -1,4 +1,4 @@
 Hey, this is a new file for testing.
 New line
-Another new line
-my new line 1
+Another line
+my new line 2
